@@ -3,6 +3,7 @@ spring:
 name: test-YAML
 environment: test
 
+
 ---
 spring:
     profiles: prod
