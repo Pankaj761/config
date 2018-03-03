@@ -1,11 +1,8 @@
 spring:
-    profiles: test
-name: test-YAML
-environment: test
-
+  profiles: test
+name: test-profile-name
 
 ---
 spring:
-    profiles: prod
-name: prod-YAML
-environment: production
+  profiles: prod
+name: prod-profile-name
