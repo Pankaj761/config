@@ -5,4 +5,4 @@ name: test-profile-name
 ---
 spring:
   profiles: prod
-name: prod-profile-name
+name: prod-profile-PAnkaj
